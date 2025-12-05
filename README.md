@@ -93,7 +93,7 @@ Replace `/path/to/script/directory` with the actual directory containing `repo_i
 
 ```bash
 cd any-git-repo
-repo_insights.sh --since "2024-01-01"
+repo_insights --since "2024-01-01"
 ```
 
 **For macOS users**, use `~/.bash_profile` or `~/.zshrc` (if using zsh) instead of `~/.bashrc`.
